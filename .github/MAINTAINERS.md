@@ -29,10 +29,6 @@
 
 - [@FiloSottile](https://github.com/FiloSottile)
 
-### chunked-encryption
-
-- [@FiloSottile](https://github.com/FiloSottile)
-
 ### cocktail-dkg
 
 - [@soatok](https://github.com/soatok)
