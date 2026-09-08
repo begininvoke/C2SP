@@ -8,7 +8,7 @@ require (
 	github.com/prometheus/client_golang v1.23.2
 	github.com/yuin/goldmark v1.8.5
 	go.yaml.in/yaml/v2 v2.4.4
-	golang.org/x/mod v0.37.0
+	golang.org/x/mod v0.40.0
 )
 
 require (
